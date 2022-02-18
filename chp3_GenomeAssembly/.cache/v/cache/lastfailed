@@ -1,0 +1,8 @@
+{
+  "::TestApproximateFlowBetweennessCentrality::()::test_solvers": true,
+  "::TestFlowBetweennessCentrality::()::test_solvers2": true,
+  "::TestMinimumWeightFullMatching::()::test_minimum_weight_full_matching_incomplete_graph": true,
+  "::TestYaml::()::testDirected": true,
+  "::TestYaml::()::testMultiGraph": true,
+  "::TestYaml::()::testUndirected": true
+}
